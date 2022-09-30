@@ -70,7 +70,7 @@ jdcal==1.4
 jedi==0.13.2
 jeepney==0.4
 
-joblib==0.13.2
+joblib==1.2.0
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.4
